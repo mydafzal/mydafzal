@@ -5,7 +5,6 @@
 	<a href="https://www.linkedin.com/in/mydafzal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://instagram.com/maidaNsiddique"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
 </p>
-<br>
 ### 👋🏻 Hey there!  
 
 I'm [Maida Afzal](https://maidaportfolio.netlify.app/), I am a frontend designer and developer who has always developed a mature approach towards my goals and the situations I face. I have a deep fondness for developing and designing applications
