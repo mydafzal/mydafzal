@@ -1,4 +1,4 @@
-## 🙋‍♀️ Let's Connect
+### 🙋‍♀️ Let's Connect
 <p align="left">
 	<a href="mailto:myyddaa@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/mydafzal"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -11,7 +11,17 @@
 I'm [Maida Afzal](https://maidaportfolio.netlify.app/), I am a frontend designer and developer who has always developed a mature approach towards my goals and the situations I face. I have a deep fondness for developing and designing applications
 - 📝 [Resume](https://drive.google.com/file/d/1sq8eXcSfbHP54JxLogm_hBwr3NMKUS-G/view?usp=sharing)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
+- Languages: Javascript, HTML/CSS/SASS, React Native, Reactjs
+- Database: MYSQL, PostgreSQL, MongoDB
+
+<h3 align="left">Tools:</h3>
+- UI/UX: Adobe XD, Sketch,
+- Graphics: Photoshop, AI
+- Development: Wordpress, Docker, Netlify, Heroku.
+
+
+
 
 
 
