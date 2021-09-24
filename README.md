@@ -3,7 +3,8 @@
 	<a href="mailto:mydafzal@protonmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/mydafzal"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/mydafzal/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://instagram.com/maidaNsiddique"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
+	<a href="https://instagram.com/maidaNsiddique"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.behance.net/mydafzal"><img src="https://img.icons8.com/bubbles/50/000000/behance.png" alt="Behance"/></a>
 </p>
 
 ### 👋🏻 Hey there!  
