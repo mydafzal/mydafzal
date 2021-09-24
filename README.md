@@ -10,7 +10,7 @@
 ### 👋🏻 Hey there!  
 
 I'm [Maida Afzal](https://maidaportfolio.netlify.app/), I am a frontend designer and developer who has always developed a mature approach towards my goals and the situations I face. I have a deep fondness for developing and designing applications
-- 📝 [Resume](https://drive.google.com/file/d/1sq8eXcSfbHP54JxLogm_hBwr3NMKUS-G/view?usp=sharing)
+- <img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-resume-human-resource-itim2101-flat-itim2101.png"/> [Resume](https://drive.google.com/file/d/1sq8eXcSfbHP54JxLogm_hBwr3NMKUS-G/view?usp=sharing)
 
 **Languages:**
 - Languages: Javascript, HTML/CSS/SASS, React Native, Reactjs
