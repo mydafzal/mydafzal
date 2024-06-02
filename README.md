@@ -8,15 +8,31 @@
 </p>
 
 ### 👋🏻 Hey there!  
+I’m a Software Engineer aka Problem Solver. As a Software Engineer, I am dedicated to crafting software solutions. My commitment lies in introducing groundbreaking technology while consistently delivering extraordinary user journeys.
 
-I’m a Software Engineer aka Problem Solver
-As a Software Engineer, I am dedicated to crafting software solutions. My commitment lies in introducing groundbreaking technology while consistently delivering extraordinary user journeys.
-
-**Tools	& Frameworks:**
-React Native, React.js, Next.js, Node.js, Express.js, MySQL & NoSQL
-MongoDB, AWS, DevOps, PostgreSQL, Docker & Kubernetes, Python,
-Postman, API Integration, REST/RESTful/GraphQL, ElasticSearch, Heroku,
-Vercel, JavaScript/Typescript, SSL/TLS, Jenkins, DNS
+**Tools & Frameworks:**
+- React Native
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- MySQL & NoSQL
+- MongoDB
+- AWS
+- DevOps
+- PostgreSQL
+- Docker & Kubernetes
+- Python
+- Postman
+- API Integration
+- REST/RESTful/GraphQL
+- ElasticSearch
+- Heroku
+- Vercel
+- JavaScript/Typescript
+- SSL/TLS
+- Jenkins
+- DNS
 
 
 
