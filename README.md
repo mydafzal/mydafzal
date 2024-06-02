@@ -9,17 +9,15 @@
 
 ### 👋🏻 Hey there!  
 
-I'm [Maida Afzal](https://maidaportfolio.netlify.app/), I am a React Native developer who has always developed a mature approach towards my goals and the situations I face. I have a deep fondness for developing and designing applications
-- <img src="https://img.icons8.com/external-itim2101-flat-itim2101/34/000000/external-resume-human-resource-itim2101-flat-itim2101.png"/> [Resume](https://drive.google.com/file/d/1OZ3SgQJImDXAqMtoFMdrYtQZEmwHtR6L/view?usp=sharing)
+I’m a Software Engineer aka Problem Solver
+As a Software Engineer, I am dedicated to crafting software solutions. My commitment lies in introducing groundbreaking technology while consistently delivering extraordinary user journeys.
 
-**Languages:**
-- Languages: Javascript, HTML/CSS/SASS, React Native, Reactjs
-- Database: MYSQL, PostgreSQL, MongoDB
+**Tools	& Frameworks:**
+React Native, React.js, Next.js, Node.js, Express.js, MySQL & NoSQL
+MongoDB, AWS, DevOps, PostgreSQL, Docker & Kubernetes, Python,
+Postman, API Integration, REST/RESTful/GraphQL, ElasticSearch, Heroku,
+Vercel, JavaScript/Typescript, SSL/TLS, Jenkins, DNS
 
-**Tools:**
-- UI/UX: Adobe XD, Sketch,
-- Graphics: Photoshop, AI
-- Development: Wordpress, Docker, Netlify, Heroku.
 
 
 
