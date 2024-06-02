@@ -72,7 +72,7 @@ As a dedicated Software Engineer, my passion lies in crafting innovative softwar
 ## 📫 Contact Me
 
 - **Email:** [myyddaa@gmail.com](mailto:myyddaa@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mydafzal/)
+- **LinkedIn:** [Maida Afzal](https://www.linkedin.com/in/mydafzal/)
 - **Twitter:** [@mydafzal](https://twitter.com/mydafzal)
 
 ---
