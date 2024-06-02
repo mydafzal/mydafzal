@@ -17,9 +17,7 @@ As a dedicated Software Engineer, my passion lies in crafting innovative softwar
         <li>React.js</li>
         <li>Next.js</li>
       </ul>
-    </td>
-    <td>
-      <ul>
+       <ul>
         <li><strong>Backend:</strong></li>
         <li>Node.js</li>
         <li>Express.js</li>
@@ -50,9 +48,7 @@ As a dedicated Software Engineer, my passion lies in crafting innovative softwar
         <li>JavaScript/Typescript</li>
         <li>Python</li>
       </ul>
-    </td>
-    <td>
-      <ul>
+       <ul>
         <li><strong>APIs:</strong></li>
         <li>REST/RESTful</li>
         <li>GraphQL</li>
