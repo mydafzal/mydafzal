@@ -8,42 +8,59 @@ As a dedicated Software Engineer, my passion lies in crafting innovative softwar
 
 ## 🛠 Tools & Frameworks
 
-- **Frontend:**
-  - React Native
-  - React.js
-  - Next.js
 
-- **Backend:**
-  - Node.js
-  - Express.js
-
-- **Databases:**
-  - MySQL
-  - NoSQL
-  - MongoDB
-  - PostgreSQL
-  - ElasticSearch
-
-- **Cloud & DevOps:**
-  - AWS
-  - Docker & Kubernetes
-  - Heroku
-  - Vercel
-
-- **Programming Languages:**
-  - JavaScript/Typescript
-  - Python
-
-- **APIs:**
-  - REST/RESTful
-  - GraphQL
-
-- **Other Tools:**
-  - Postman
-  - API Integration
-  - SSL/TLS
-  - Jenkins
-  - DNS
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <ul>
+      <li><strong>Frontend:</strong></li>
+      <li>React Native</li>
+      <li>React.js</li>
+      <li>Next.js</li>
+    </ul>
+    <ul>
+      <li><strong>Backend:</strong></li>
+      <li>Node.js</li>
+      <li>Express.js</li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li><strong>Databases:</strong></li>
+      <li>MySQL</li>
+      <li>NoSQL</li>
+      <li>MongoDB</li>
+      <li>PostgreSQL</li>
+      <li>ElasticSearch</li>
+    </ul>
+    <ul>
+      <li><strong>Cloud & DevOps:</strong></li>
+      <li>AWS</li>
+      <li>Docker & Kubernetes</li>
+      <li>Heroku</li>
+      <li>Vercel</li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li><strong>Programming Languages:</strong></li>
+      <li>JavaScript/Typescript</li>
+      <li>Python</li>
+    </ul>
+    <ul>
+      <li><strong>APIs:</strong></li>
+      <li>REST/RESTful</li>
+      <li>GraphQL</li>
+    </ul>
+    <ul>
+      <li><strong>Other Tools:</strong></li>
+      <li>Postman</li>
+      <li>API Integration</li>
+      <li>SSL/TLS</li>
+      <li>Jenkins</li>
+      <li>DNS</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
@@ -52,13 +69,6 @@ As a dedicated Software Engineer, my passion lies in crafting innovative softwar
 - **Email:** [myyddaa@gmail.com](mailto:myyddaa@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mydafzal/)
 - **Twitter:** [@mydafzal](https://twitter.com/mydafzal)
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
