@@ -5,7 +5,6 @@
 ### 🚀 About Me
 As a passionate Software Engineer, I thrive on crafting innovative solutions that solve complex problems. I specialize in leveraging cutting-edge technology to create extraordinary user experiences and impactful software systems.
 
----
 
 ### 🛠 Tools & Frameworks
 <p>
@@ -44,14 +43,12 @@ As a passionate Software Engineer, I thrive on crafting innovative solutions tha
 - Scalable Full-Stack Applications
 - AI-Powered and Data-Driven Solutions
 
----
 
 ### ✨ Ask Me About:
 - Efficient Backend Architectures
 - Scalable Cloud Deployments
 - Integrating AI in Everyday Applications
 
----
 
 ### 📫 Contact Me
 - **Email:** [myyddaa@gmail.com](mailto:myyddaa@gmail.com)
