@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Maida &nbsp;<a href="https://mydafzal.dev"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>
 
-<h3 align="center">Software Engineer | Problem Solver | Innovator</h3>
+<h3 align="center">Software Engineer | AI Engineer | Problem Solver</h3>
 
 ### 🚀 About Me
 As a passionate Software Engineer, I thrive on crafting innovative solutions that solve complex problems. I specialize in leveraging cutting-edge technology to create extraordinary user experiences and impactful software systems.
