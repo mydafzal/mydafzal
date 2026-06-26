@@ -1,50 +1,66 @@
-<h1 align="center">Hi there, I'm Maida &nbsp;<a href="https://mydafzal.dev"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a></h1>
+<h1 align="center">Maida Afzal</h1>
 
-<h3 align="center">Software Engineer | AI Engineer | Problem Solver</h3>
+<p align="center">
+  <strong>AI Engineer · Full-Stack Software Engineer · Automation Builder</strong>
+</p>
 
-### 🚀 About Me
-As a passionate Software Engineer, I thrive on crafting innovative solutions that solve complex problems. I specialize in leveraging cutting-edge technology to create extraordinary user experiences and impactful software systems.
-
-
-### 🛠 Tools & Frameworks
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img alt="AWS SageMaker" src="https://img.shields.io/badge/-AWS_SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+<p align="center">
+  I build AI-powered products, agentic workflows, SaaS platforms, RAG systems, and production-ready backend services.
 </p>
 
 ---
 
-### 🌟 I’m looking to collaborate on:
-- Scalable Full-Stack Applications
-- AI-Powered and Data-Driven Solutions
+## About
 
+I am a software engineer focused on practical AI systems: applications that connect language models, data pipelines, business logic, and real user workflows.
 
-### ✨ Ask Me About:
-- Efficient Backend Architectures
-- Scalable Cloud Deployments
-- Integrating AI in Everyday Applications
+My work sits at the intersection of AI engineering and full-stack product development. I enjoy building systems that move beyond demos: authenticated SaaS apps, AI support agents, vector-search backends, ML prediction pipelines, automation platforms, and integrations with third-party APIs.
+
+## What I Build
+
+- AI agents and multi-step automation workflows
+- RAG and vector-search applications using OpenAI, LangChain, ChromaDB, FAISS, and Qdrant
+- Full-stack SaaS products with Next.js, TypeScript, Prisma, auth, billing, and dashboards
+- Backend services with FastAPI, Express, NestJS, PostgreSQL, Redis, and background jobs
+- ML/data pipelines for prediction, scoring, and analytics
+- API integrations with Stripe, Twilio, Google APIs, HubSpot, WooCommerce, cloud storage, and CRM systems
+
+## Featured Work
+
+### [AI Marketing Studio](https://github.com/mydafzal/ai-marketing-studio)
+Full-stack AI marketing automation workspace for campaign creation, creative generation, ad workflows, subscriptions, and performance analysis.
+
+### [AI Support Platform Backend](https://github.com/mydafzal/ai-support-platform-backend)
+Multi-tenant AI customer-support backend with LangChain, LangGraph, ChromaDB, PostgreSQL, Redis, Socket.IO, training pipelines, and business integrations.
+
+### [Product Lifecycle Agent](https://github.com/mydafzal/product-lifecycle-agent)
+Multi-agent workflow for SKU analysis, pricing, marketing, finance, governance, and transparent lifecycle reporting.
+
+### [Ecommerce Chatbot Backend](https://github.com/mydafzal/ecommerce-chatbot-backend)
+WooCommerce-aware AI shopping assistant backend built with TypeScript, Express, LangChain, OpenAI, ChromaDB, and Redis.
+
+### [Wise Sports Predictor](https://github.com/mydafzal/wise-sports-predictor)
+Machine-learning pipeline and FastAPI service for NBA and MLB predictions using XGBoost, scikit-learn, and structured data workflows.
+
+### [ContractBot SaaS](https://github.com/mydafzal/contractbot-saas)
+Full-stack contract workflow SaaS with Next.js, Prisma, NextAuth, tRPC, Stripe, SendGrid, MDX docs, and Playwright tests.
+
+## Technical Toolkit
+
+**AI and ML:** OpenAI, LangChain, LangGraph, CrewAI, FAISS, ChromaDB, Qdrant, Gemini, XGBoost, scikit-learn, pandas, NumPy  
+**Backend:** FastAPI, Express.js, NestJS, Node.js, Python, TypeScript, PostgreSQL, Redis, Sequelize, Prisma, SQLModel  
+**Frontend:** Next.js, React, React Native, Tailwind CSS, Radix UI, Vite  
+**Cloud and Integrations:** Docker, AWS S3, Azure Blob Storage, Stripe, Twilio, Google APIs, HubSpot, WooCommerce, SendGrid  
+**Product Engineering:** auth, subscriptions, dashboards, background jobs, API design, webhooks, admin tooling, testing, documentation
+
+## Current Focus
+
+- Building agentic systems that can use tools, retrieve context, and complete business workflows
+- Designing backend architectures for AI products that need memory, permissions, billing, and integrations
+- Turning complex product ideas into usable software with clean APIs and practical UX
+
+## Connect
+
+- Portfolio: [mydafzal.dev](https://mydafzal.dev)
+- GitHub: [github.com/mydafzal](https://github.com/mydafzal)
+
