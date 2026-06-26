@@ -25,26 +25,6 @@ My work sits at the intersection of AI engineering and full-stack product develo
 - ML/data pipelines for prediction, scoring, and analytics
 - API integrations with Stripe, Twilio, Google APIs, HubSpot, WooCommerce, cloud storage, and CRM systems
 
-## Featured Work
-
-### [AI Marketing Studio](https://github.com/mydafzal/ai-marketing-studio)
-Full-stack AI marketing automation workspace for campaign creation, creative generation, ad workflows, subscriptions, and performance analysis.
-
-### [AI Support Platform Backend](https://github.com/mydafzal/ai-support-platform-backend)
-Multi-tenant AI customer-support backend with LangChain, LangGraph, ChromaDB, PostgreSQL, Redis, Socket.IO, training pipelines, and business integrations.
-
-### [Product Lifecycle Agent](https://github.com/mydafzal/product-lifecycle-agent)
-Multi-agent workflow for SKU analysis, pricing, marketing, finance, governance, and transparent lifecycle reporting.
-
-### [Ecommerce Chatbot Backend](https://github.com/mydafzal/ecommerce-chatbot-backend)
-WooCommerce-aware AI shopping assistant backend built with TypeScript, Express, LangChain, OpenAI, ChromaDB, and Redis.
-
-### [Wise Sports Predictor](https://github.com/mydafzal/wise-sports-predictor)
-Machine-learning pipeline and FastAPI service for NBA and MLB predictions using XGBoost, scikit-learn, and structured data workflows.
-
-### [ContractBot SaaS](https://github.com/mydafzal/contractbot-saas)
-Full-stack contract workflow SaaS with Next.js, Prisma, NextAuth, tRPC, Stripe, SendGrid, MDX docs, and Playwright tests.
-
 ## Technical Toolkit
 
 <p>
